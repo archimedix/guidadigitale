@@ -5983,8 +5983,8 @@ ul.et_pb_side_nav .side_nav_item a.active {
 /* Basic Styles */
 @font-face {
 	font-family: "ETmodules";
-	src: url("http://guidadigitale.net/wp-content/themes/Divi/includes/builder/fonts/ETmodules_v2_4.eot");
-	src: url("http://guidadigitale.net/wp-content/themes/Divi/includes/builder/fonts/ETmodules_v2_4.eot#iefix") format("embedded-opentype"), url("http://guidadigitale.net/wp-content/themes/Divi/includes/builder/fonts/ETmodules_v2_4.ttf") format("truetype"), url("http://guidadigitale.net/wp-content/themes/Divi/includes/builder/fonts/ETmodules_v2_4.woff") format("woff"), url("http://guidadigitale.net/wp-content/themes/Divi/includes/builder/fonts/ETmodules_v2_4.svg#ETmodules") format("svg");
+	src: url("https://guidadigitale.net/wp-content/themes/Divi/includes/builder/fonts/ETmodules_v2_4.eot");
+	src: url("https://guidadigitale.net/wp-content/themes/Divi/includes/builder/fonts/ETmodules_v2_4.eot#iefix") format("embedded-opentype"), url("https://guidadigitale.net/wp-content/themes/Divi/includes/builder/fonts/ETmodules_v2_4.ttf") format("truetype"), url("https://guidadigitale.net/wp-content/themes/Divi/includes/builder/fonts/ETmodules_v2_4.woff") format("woff"), url("https://guidadigitale.net/wp-content/themes/Divi/includes/builder/fonts/ETmodules_v2_4.svg#ETmodules") format("svg");
 	font-weight: normal;
 	font-style: normal;
 }
@@ -6175,7 +6175,7 @@ ul.et_pb_side_nav .side_nav_item a.active {
 	width: 16px;
 	height: 16px;
 	margin-left: -8px;
-	background: url("http://guidadigitale.net/wp-content/themes/Divi/includes/builder/styles/images/subscribe-loader.gif");
+	background: url("https://guidadigitale.net/wp-content/themes/Divi/includes/builder/styles/images/subscribe-loader.gif");
 }
 
 .et_pb_button_text_loading .et_pb_newsletter_button_text {
@@ -9366,7 +9366,7 @@ a.et_pb_more_button:after,
 	-webkit-border-radius: 32px;
 	-moz-border-radius: 32px;
 	border-radius: 32px;
-	background: url("http://guidadigitale.net/wp-content/themes/Divi/includes/builder/styles/images/preloader.gif") no-repeat;
+	background: url("https://guidadigitale.net/wp-content/themes/Divi/includes/builder/styles/images/preloader.gif") no-repeat;
 	content: "";
 }
 
